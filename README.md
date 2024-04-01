@@ -1,5 +1,5 @@
 # Fotomatic Revamp
-![ibenjaminh github io_fotomatic_](https://github.com/ibenjaminh/fotomatic/assets/162258152/34f91c41-0bab-4e54-84aa-143697cf8a7c)]
+![ibenjaminh github io_fotomatic_ (2)](https://github.com/ibenjaminh/fotomatic/assets/162258152/1ab4bdeb-7ab0-443c-8b76-38711d312e6d)
 
 Hey 👋 - This is where I took a broken Fotomatic site and made it awesome. Here’s the scoop:
 
